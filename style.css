@@ -1671,8 +1671,8 @@ body {
 
 	.hero-image img {
 		content: url('assets/images/image-hero-mobile.webp');
-		width: 100%;
-		height: auto;
+		/* width: 100%;
+		height: auto; */
 	}
 
 	/* Features section */
