@@ -669,7 +669,7 @@ body {
 }
 
 #cta-button-arrow {
-	content: url('/assets/images/icon-arrow-up.svg');
+	content: url('assets/images/icon-arrow-up.svg');
 	width: 24px;
 	height: 24px;
 	margin-left: 1em;
